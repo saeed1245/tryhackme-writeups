@@ -10,5 +10,5 @@ This repository contains my write-ups for TryHackMe rooms.
 
 ## Write-ups
 | Room | Date | Topic |
-|------|------|-------|
+| Offensive Security Intro | June 2, 2026 | Introduction to offensive security concepts |
 | Coming soon... | | |
