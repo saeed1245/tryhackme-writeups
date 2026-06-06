@@ -13,3 +13,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Offensive Security Intro | June 1, 2026 | Ethical hacking concepts, web application testing |
 | Defensive Security Intro | June 2, 2026 | Blue team basics, threat detection, incident response |
 | Defensive Security Intro | June 2, 2026 | Advanced search techniques, specialized search engines, technical documentation |
+| Linux Fundamentals Part 1 | June 6, 2026 | Linux basics, terminal commands, file permissions |
