@@ -16,3 +16,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Linux Fundamentals Part 1 | June 6, 2026 | Linux basics, terminal commands, file permissions |
 | Careers in Cyber | June 6, 2026 | Cybersecurity career roles and Security Analyst path |
 | What is Networking | June 7, 2026 | Network fundamentals, device communication, data transmission |
+| DNS in Detail | June 8, 2026 | DNS records, query process, domain resolution |
