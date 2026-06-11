@@ -20,3 +20,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | DNS in Detail | June 8, 2026 | DNS records, query process, domain resolution |
 | HTTP in Detail | June 9, 2026 | HTTP protocol, request methods, status codes, headers |
 | How Websites Work | June 10, 2026 | Website architecture, HTML/CSS/JavaScript, web requests, injection attacks |
+| Putting it All Together | June 11, 2026 | Complete web architecture, integrated flow, HTTP/DNS/networking |
