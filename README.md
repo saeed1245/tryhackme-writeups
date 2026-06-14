@@ -23,3 +23,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Putting it All Together | June 11, 2026 | Complete web architecture, integrated flow, HTTP/DNS/networking |
 | Inside a Computer System | June 12, 2026 | CPU, RAM, storage devices, hardware architecture |
 | Computer Types | June 13, 2026 | Desktop, laptops, tablets, embedded systems, servers |
+| Virtualisation Basics | June 14, 2026 | Virtual machines, hypervisors, isolation, IT efficiency |
