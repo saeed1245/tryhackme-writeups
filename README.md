@@ -25,3 +25,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Computer Types | June 13, 2026 | Desktop, laptops, tablets, embedded systems, servers |
 | Virtualisation Basics | June 14, 2026 | Virtual machines, hypervisors, isolation, IT efficiency |
 | Cloud Computing Fundamentals | June 15, 2026 | IaaS, PaaS, SaaS, deployment models |
+| Operating Systems: Introduction | June 16, 2026 | OS fundamentals, kernel, process management, file systems |
