@@ -26,3 +26,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Virtualisation Basics | June 14, 2026 | Virtual machines, hypervisors, isolation, IT efficiency |
 | Cloud Computing Fundamentals | June 15, 2026 | IaaS, PaaS, SaaS, deployment models |
 | Operating Systems: Introduction | June 16, 2026 | OS fundamentals, kernel, process management, file systems |
+| Windows Basics | June 18, 2026 | Windows interface, file management, system tools, command line |
