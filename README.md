@@ -27,3 +27,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Cloud Computing Fundamentals | June 15, 2026 | IaaS, PaaS, SaaS, deployment models |
 | Operating Systems: Introduction | June 16, 2026 | OS fundamentals, kernel, process management, file systems |
 | Windows Basics | June 18, 2026 | Windows interface, file management, system tools, command line |
+| Data Representation | June 22, 2026 | Binary, hexadecimal, number systems, color encoding, ASCII |
