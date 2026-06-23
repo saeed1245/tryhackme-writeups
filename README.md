@@ -28,3 +28,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Operating Systems: Introduction | June 16, 2026 | OS fundamentals, kernel, process management, file systems |
 | Windows Basics | June 18, 2026 | Windows interface, file management, system tools, command line |
 | Data Representation | June 22, 2026 | Binary, hexadecimal, number systems, color encoding, ASCII |
+| Data Encoding | June 23, 2026 | ASCII, Unicode, UTF-8, UTF-16, character encoding |
