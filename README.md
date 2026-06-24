@@ -29,3 +29,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Windows Basics | June 18, 2026 | Windows interface, file management, system tools, command line |
 | Data Representation | June 22, 2026 | Binary, hexadecimal, number systems, color encoding, ASCII |
 | Data Encoding | June 23, 2026 | ASCII, Unicode, UTF-8, UTF-16, character encoding |
+| The CIA Triad | June 24, 2026 | Confidentiality, Integrity, Availability, security principles |
