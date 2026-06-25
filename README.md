@@ -30,3 +30,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Data Representation | June 22, 2026 | Binary, hexadecimal, number systems, color encoding, ASCII |
 | Data Encoding | June 23, 2026 | ASCII, Unicode, UTF-8, UTF-16, character encoding |
 | The CIA Triad | June 24, 2026 | Confidentiality, Integrity, Availability, security principles |
+| Cryptography Concepts | June 25, 2026 | Encryption, decryption, hashing, symmetric, asymmetric, digital signatures |
