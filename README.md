@@ -34,3 +34,4 @@ This repository contains my write-ups for TryHackMe rooms.
 |Cryptography Concepts|June 25, 2026|Encryption, decryption, hashing, symmetric, asymmetric, digital signatures|
 | Become a Hacker | June 28, 2026 | Offensive security, hacker mindset, web app vulnerabilities, ethical hacking |
 | Become a Defender | June 28, 2026 | Defensive security, cyber infrastructure, incident response, protection strategies |
+| Intro to LAN | June 29, 2026 | Local Area Networks, Ethernet, switches, DHCP, network topology |
