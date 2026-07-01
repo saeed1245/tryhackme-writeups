@@ -35,3 +35,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Become a Hacker | June 28, 2026 | Offensive security, hacker mindset, web app vulnerabilities, ethical hacking |
 | Become a Defender | June 28, 2026 | Defensive security, cyber infrastructure, incident response, protection strategies |
 | Intro to LAN | June 29, 2026 | Local Area Networks, Ethernet, switches, DHCP, network topology |
+| OSI Model | Jul 1, 2026 | 7-layer model, network protocols, data transmission, security at each layer |
