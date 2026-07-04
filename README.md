@@ -37,4 +37,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Intro to LAN | June 29, 2026 | Local Area Networks, Ethernet, switches, DHCP, network topology |
 | OSI Model | Jul 1, 2026 | 7-layer model, network protocols, data transmission, security at each layer |
 | Packets & Frames | Jul 2, 2026 | Packets vs frames, IP headers, TCP three-way handshake, UDP vs TCP, ports |
-| Extending Your Network | June 4, 2026 | Routers, gateways, NAT, DNS, ISP, WAN, VPN, firewalls |
+| Extending Your Network | Jul 4, 2026 | Routers, gateways, NAT, DNS, ISP, WAN, VPN, firewalls |
