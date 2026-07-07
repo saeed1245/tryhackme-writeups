@@ -38,3 +38,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | OSI Model | Jul 1, 2026 | 7-layer model, network protocols, data transmission, security at each layer |
 | Packets & Frames | Jul 2, 2026 | Packets vs frames, IP headers, TCP three-way handshake, UDP vs TCP, ports |
 | Extending Your Network | Jul 4, 2026 | Routers, gateways, NAT, DNS, ISP, WAN, VPN, firewalls |
+| Client-Server Basics | Jul 07, 2026 | Client-server model, request-response, protocols, ports, HTTP/FTP/SSH |
