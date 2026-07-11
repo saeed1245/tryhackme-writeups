@@ -39,4 +39,5 @@ This repository contains my write-ups for TryHackMe rooms.
 | Packets & Frames | Jul 2, 2026 | Packets vs frames, IP headers, TCP three-way handshake, UDP vs TCP, ports |
 | Extending Your Network | Jul 4, 2026 | Routers, gateways, NAT, DNS, ISP, WAN, VPN, firewalls |
 | Client-Server Basics | Jul 7, 2026 | Client-server model, request-response, protocols, ports, HTTP/FTP/SSH |
-| Linux CLI Basics | June 8, 2026 | Linux command line navigation, CLI commands, file operations |
+| Linux CLI Basics | Jul 8, 2026 | Linux command line navigation, CLI commands, file operations |
+| Windows CLI Basics | Jul 11, 2026 | Windows command line navigation, CLI commands, system interaction |
