@@ -41,3 +41,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Client-Server Basics | Jul 7, 2026 | Client-server model, request-response, protocols, ports, HTTP/FTP/SSH |
 | Linux CLI Basics | Jul 8, 2026 | Linux command line navigation, CLI commands, file operations |
 | Windows CLI Basics | Jul 11, 2026 | Windows command line navigation, CLI commands, system interaction |
+| Operating System Security | Jul 14, 2026 | OS security, SSH authentication, Linux security, system hardening |
