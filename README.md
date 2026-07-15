@@ -43,4 +43,5 @@ This repository contains my write-ups for TryHackMe rooms.
 | Windows CLI Basics | Jul 11, 2026 | Windows command line navigation, CLI commands, system interaction |
 | Operating System Security | Jul 14, 2026 | OS security, SSH authentication, Linux security, system hardening |
 | Python: Simple Demo | Jul 15, 2026 | Basic Python programs, Python fundamentals, simple scripting |
-| JavaScript: Simple Demo | June 15, 2026 | Basic JavaScript programs, JavaScript fundamentals, simple scripting |
+| JavaScript: Simple Demo | Jul 15, 2026 | Basic JavaScript programs, JavaScript fundamentals, simple scripting |
+| Database SQL Basics | Jul 15, 2026 | Databases, SQL queries, data retrieval, data management |
