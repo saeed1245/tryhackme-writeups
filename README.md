@@ -42,3 +42,4 @@ This repository contains my write-ups for TryHackMe rooms.
 | Linux CLI Basics | Jul 8, 2026 | Linux command line navigation, CLI commands, file operations |
 | Windows CLI Basics | Jul 11, 2026 | Windows command line navigation, CLI commands, system interaction |
 | Operating System Security | Jul 14, 2026 | OS security, SSH authentication, Linux security, system hardening |
+| Python: Simple Demo | Jul 15, 2026 | Basic Python programs, Python fundamentals, simple scripting |
